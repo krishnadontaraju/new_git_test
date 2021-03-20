@@ -1,3 +1,4 @@
 #! /bin/bash
 
-echo ( " NEW HELLO " )
+echo ( " Not  NEW HELLO " )
+echo ( "Good morning" )
